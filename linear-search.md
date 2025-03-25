@@ -1,18 +1,7 @@
-LINEAR SCAN / COMPLETE SEARCH
+Γραμμική αναζήτηση / επεξεργασία
+======
 
-Usual linear search, running sum/min/max
-Iterate forward, backward, with step, ...
-
-https://cses.fi/problemset/task/1069
-https://pdp-archive.github.io/27-PDP/a-xxx-statement
-https://pdp-archive.github.io/28-PDP/camp-j-metoxes2-statement
-
-Can be extended for pairs (i, j), triplets(i, j, k)..., iterating over all nC2, nC3...
-
-2Sum O(n^2) https://pdp-archive.github.io/26-PDP/c-sumpair-statement
-https://leetcode.com/problems/island-perimeter/description/
-
-Προαπαιτούμενα: Μεταβλητές, Conditionals, βασικά πινάκων
+![Linear search gif](https://sushrutkuchik.wordpress.com/wp-content/uploads/2020/05/linear_search.gif)
 
 Δεδομένου ένος πίνακα *n* αριθμών, συχνά αρκεί να εξετάσουμε κάθε στοιχείο του πίνακα από μία φορά για να απαντήσουμε σε κάποια βασική ερώτηση.
 
@@ -334,7 +323,7 @@ $$A | TT | AAAA | C | T$$
 
 Μετά από κάθε στοιχείο που λαμβάνουμε υπόψιν, ελέγχουμε αν το διάστημα στο οποίο ανήκει είναι το μεγαλύτερο
 
-```
+``` c++
 string s = "ATTAAAACT";
 int n = s.size(), ans = 0;
 
@@ -369,16 +358,3 @@ for(int i = 1; i < n; i++){
 - Ποιά κριτήρια μπορούμε να χρησιμοποιήσουμε για να συγκρίνουμε δύο λύσεις?
 
 ## Πρόβλημα [κυλικείο](https://pdp-archive.github.io/27-PDP/a-xxx-statement) και [λύση](https://pdp-archive.github.io/27-PDP/a-xxx-solution)
-
-----
-
-οργάνωση 30 λεπτά
-εισαγωγή 15 λεπτά
-getMinimum 21/3: 8:00 - 9:00 
-getSecondMinimum 22/3: 18:30 - 20:00 
-isIncreasing 22/3: 20:00 - 20:30
-getPeaks 22/3 22:00 - 22:15
-ενδιάμεση θεωρία 30 λεπτά
-repetitions: 1.5 ώρα
-
-6

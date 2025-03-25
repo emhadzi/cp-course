@@ -40,4 +40,10 @@ edit distance
 
 ---
 
+Can be extended for pairs (i, j), triplets(i, j, k)..., iterating over all nC2, nC3...
+
+
+2Sum O(n^2) https://pdp-archive.github.io/26-PDP/c-sumpair-statement
+https://leetcode.com/problems/island-perimeter/description/
+
 https://pdp-archive.github.io/28-PDP/camp-j-metoxes2-statement
