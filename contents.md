@@ -25,7 +25,7 @@ edit distance
 2. Conditionals, loops
 3. Βασικά πινάκων
 4. Γραμμική αναζήτηση 1
-5. Πλήρης αναζήτηση 1 / brute force
+5. Εξαντλητική αναζήτηση 1 / brute force
 6. Υπολογιστική πολυπλοκότητα
 7. Γραμμική αναζήτηση 2 / prefix sums, minimum
 8. Ταξινόμηση
@@ -33,7 +33,7 @@ edit distance
 10. Δυαδικά δέντρα (sets, maps)
 11. Αναδρομή
 12. Δυναμικός προγραμματισμός
-13. Πλήρης αναζήτηση 2 / μάσκες, μεταθέσεις
+13. Πλήρης αναζήτηση 2 / μάσκες, μεταθέσεις (ισως πιο μετα)
 14. Βασικά γράφων, δέντρων  
 15. DFS, BFS
 16. 
@@ -47,3 +47,6 @@ Can be extended for pairs (i, j), triplets(i, j, k)..., iterating over all nC2, 
 https://leetcode.com/problems/island-perimeter/description/
 
 https://pdp-archive.github.io/28-PDP/camp-j-metoxes2-statement
+
+---
+dp - CSES/Array description
