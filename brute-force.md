@@ -19,6 +19,7 @@
 
 >Παράδειγματα: 
 >$$target = 9, nums = [1, {\color{red} 5}, 2, {\color{red} 4}, 4, 6] \rightarrow True$$
+
 >$$target = 5, nums = [1, 3, 3, 8, 6] \rightarrow False $$
 
 ### Λύση💡
