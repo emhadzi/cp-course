@@ -1,53 +1,23 @@
-# Yπολογιστική σκέψη:
-Δυαδικό σύστημα
-RAM, κλασικά arrays / διευθύνσεις σε δρόμο, αιτησεις για δημιουργία σπιτιών
-Linked list / blockchain
-Υλοποίηση πίνακα δυναμικού μεγέθους / πάλι με σπίτια σε δρόμο
-
-Ταξινόμηση 
-Δυαδική αναζήτηση / εύρεση σε λεξικό, κάτι με πιο δύσκολη eval
-Square root decomposition / αυγό
-
-Δυαδικά δέντρα αναζήτησης
-
-Αναδρομή
-
-Memoisation / dp
-minimum coin change, vending machine
-edit distance
-
-Δέντρα 
-
-Γράφοι
-
-# Competitive:
 1. Μεταβλητές
 2. Conditionals, loops
 3. Βασικά πινάκων
-4. Γραμμική αναζήτηση 1 // split σε δυο αρχεία 2d πινακες
+4. Γραμμική αναζήτηση 1α
+5. Γραμμική αναζήτηση 1β
 5. Εξαντλητική αναζήτηση 1 / brute force
 6. Υπολογιστική πολυπλοκότητα
 7. Two pointers / sliding window
 8. Γραμμική αναζήτηση 2 / prefix sums, minimum // rainfall
-9. Ταξινόμηση
-10. Δυαδική αναζήτηση
-11. Δυαδικά δέντρα (sets, maps)
-12. Αναδρομή
-13. Δυναμικός προγραμματισμός
-14. Πλήρης αναζήτηση 2 / μάσκες, μεταθέσεις (ισως πιο μετα)
-15. Βασικά γράφων, δέντρων  
-16. DFS, BFS
-17. 
+9. Συναρτήσεις, pointers, structs
+10. Ταξινόμηση
+11. Δυαδική αναζήτηση
+12. Δυαδικά δέντρα (sets, maps)
+13. Αναδρομή
+14. Δυναμικός προγραμματισμός
+15. Πλήρης αναζήτηση 2 / μάσκες, μεταθέσεις (ισως πιο μετα)
+16. Βασικά γράφων, δέντρων  
+17. DFS, BFS
+18. 
 
 ---
 
-Can be extended for pairs (i, j), triplets(i, j, k)..., iterating over all nC2, nC3...
-
-
-2Sum O(n^2) https://pdp-archive.github.io/26-PDP/c-sumpair-statement
-https://leetcode.com/problems/island-perimeter/description/
-
-https://pdp-archive.github.io/28-PDP/camp-j-metoxes2-statement
-
----
 dp - CSES/Array description
