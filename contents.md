@@ -24,11 +24,11 @@ edit distance
 1. Μεταβλητές
 2. Conditionals, loops
 3. Βασικά πινάκων
-4. Γραμμική αναζήτηση 1
+4. Γραμμική αναζήτηση 1 // split σε δυο αρχεία 2d πινακες
 5. Εξαντλητική αναζήτηση 1 / brute force
 6. Υπολογιστική πολυπλοκότητα
 7. Two pointers / sliding window
-8. Γραμμική αναζήτηση 2 / prefix sums, minimum
+8. Γραμμική αναζήτηση 2 / prefix sums, minimum // rainfall
 9. Ταξινόμηση
 10. Δυαδική αναζήτηση
 11. Δυαδικά δέντρα (sets, maps)
